@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdmTareas</string>
+    <string name="string1">Todas las tareas estan completas</string>
+    <string name="string2">Toma un descanso!</string>
+</resources>
